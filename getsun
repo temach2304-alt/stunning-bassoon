@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Моя первая веб-страница</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Привет, мир!</h1>
+    <p>Это моя первая веб-страница. Она работает в интернете!</p>
+    <p>Теперь ты можешь:</p>
+    <ul>
+      <li>Редактировать этот HTML</li>
+      <li>Добавлять стили (CSS)</li>
+      <li>Вставлять изображения, видео или даже 3D-модели</li>
+    </ul>
+  </div>
+</body>
+</html>
